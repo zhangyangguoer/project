@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import TabControl from "./components/tabControl.vue";
+import TabControl from "./tabControl.vue";
 
 export default {
   name: "App",

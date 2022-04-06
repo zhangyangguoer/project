@@ -22,6 +22,7 @@ export default {
       default: () => [],
     },
   },
+  emits: ["clickCurrent"],
   data() {
     return {
       currentIndex: 0,
